@@ -4,8 +4,8 @@ This GitHub is mainly used mainly for simulations, visualizations, and code acco
 
 ## Armchair Quantum Physicist
 
-Website [Armchair Quantum Physicist](https://armchairquantumphysicist.com/)
-Medium [Medium](https://medium.com/@r.hendriks)
+- Website [Armchair Quantum Physicist](https://armchairquantumphysicist.com/)
+- Medium [Medium](https://medium.com/@r.hendriks)
 
 ## Selected Topics
 
