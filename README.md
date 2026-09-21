@@ -1,15 +1,11 @@
-# Hi, I'm Rob 👋
+# Hi, I'm Rob 
 
-Physicist, engineer, and occasional armchair quantum physicist.
-
-I use this GitHub mainly for simulations, visualizations, and code accompanying my writing about quantum physics and quantum information.
+This GitHub is mainly used mainly for simulations, visualizations, and code accompanying my articles about quantum physics and quantum information.
 
 ## Armchair Quantum Physicist
 
-I write accessible articles about quantum mechanics, quantum information, and the places where classical intuition starts to fail.
-
-🌐 [Armchair Quantum Physicist](https://armchairquantumphysicist.com/)
-✍️ [Medium](https://medium.com/@r.hendriks)
+Website [Armchair Quantum Physicist](https://armchairquantumphysicist.com/)
+Medium [Medium](https://medium.com/@r.hendriks)
 
 ## Selected Topics
 
